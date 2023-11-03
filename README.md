@@ -30,8 +30,6 @@ pip install -r requirements.txt
 uvicorn server:app --reload
 ```
 
-## Documentation
-
 > FastAPI provides a great documentation interface for your API
 
 ```bash
