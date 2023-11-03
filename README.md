@@ -34,7 +34,9 @@ uvicorn server:app --reload
 
 > FastAPI provides a great documentation interface for your API
 
-```
+```bash
 # to access the documentation
 # go to http://localhost:8000/docs
 ```
+
+![docs](docs/images/example.png)
